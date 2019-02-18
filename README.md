@@ -70,15 +70,13 @@ After a few frames from different poses have been added, pressing 'Optimize' but
 
 Once a calibration has been stored, invoking **PTAMM** executable runs the tracker. At the start, the tracker requires the user to provide a stereo pair to initialise the map. The user does this by pointing the camera at an angle to a planar (or near-planar) surface to be augmented, pressing **spacebar**, slowly translating the camera to provide a baseline, and pressing **spacebar** again to complete the stereo pair. At this point a map is created and the tracker runs. Augmented graphics can be shown once the tracker is running by first pressing the **Draw AR** toggle button, then selecting a game from the Demos menu.
 
+1. Point the Camera at planar scene and press spacebar to start for initial map.
 
 <div class="row">
   <div class="column">
     <img src="./static/step01.jpg" width="300">
     <img src="./static/step02.jpg" width="300">
   </div>
-</div>
-
-<div class="row">
   <div class="column">
     <img src="./static/step03.jpg" width="300">
     <img src="./static/step05.jpg" width="300">
@@ -89,25 +87,27 @@ Once a calibration has been stored, invoking **PTAMM** executable runs the track
   </div>
 </div>
 
-![Step 02](https://github.com/dpalominop/PTAM/blob/master/static/step02.jpg)
+2. Visualize the map created.
 
-![Step 03](https://github.com/dpalominop/PTAM/blob/master/static/step03.jpg)
+<div class="row">
+  <div class="column">
+    <img src="./static/step09.jpg" width="300">
+    <img src="./static/step10.jpg" width="300">
+  </div>
+</div>
 
-![Step 05](https://github.com/dpalominop/PTAM/blob/master/static/step05.jpg)
+3. Choose the AR model.
 
-![Step 07](https://github.com/dpalominop/PTAM/blob/master/static/step07.jpg)
-
-![Step 08](https://github.com/dpalominop/PTAM/blob/master/static/step08.jpg)
-
-![Step 09](https://github.com/dpalominop/PTAM/blob/master/static/step09.jpg)
-
-![Step 10](https://github.com/dpalominop/PTAM/blob/master/static/step10.jpg)
-
-![Step 11](https://github.com/dpalominop/PTAM/blob/master/static/step11.jpg)
-
-![Step 12](https://github.com/dpalominop/PTAM/blob/master/static/step12.jpg)
-
-![Step 13](https://github.com/dpalominop/PTAM/blob/master/static/step13.jpg)
+<div class="row">
+  <div class="column">
+    <img src="./static/step11.jpg" width="600">
+    
+  </div>
+  <div class="column">
+    <img src="./static/step12.jpg" width="300">
+    <img src="./static/step13.jpg" width="300">
+  </div>
+</div>
 
 ## Demo
 

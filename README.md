@@ -114,5 +114,7 @@ Once a calibration has been stored, invoking **PTAMM** executable runs the track
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/c-BEgujPG10/0.jpg)](https://www.youtube.com/watch?v=c-BEgujPG10)
 
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FNRpYSiPuwM/0.jpg)](https://www.youtube.com/watch?v=FNRpYSiPuwM)
+
 # References
 * Klein, G & Murray, D. (2007). Parallel tracking and mapping for small AR workspaces. ISMAR. IEEE. 225-234. (http://www.robots.ox.ac.uk/~gk/PTAM/)
